@@ -1,0 +1,20 @@
+#modal-bg .modal-wrapper{
+  border-radius : 16px;
+} 
+
+.quick-command-container .quick-command-search, .quick-command-container .quick-command-search-hint{
+  font-size: 1.618em !important;
+}
+
+.quick-command-container .quick-command-search-hint{
+  /* opacity : 1; */
+  animation-name : prompting;
+  animation-duration : 2s;
+  animation-iteration-count : infinite
+}
+
+@keyframes prompting {
+  0% { color : var(--colorFgFadedMore) }
+  50% { color : var(--colorBgLight) }
+  0% { color : var(--colorFgFadedMore) }
+}
