@@ -1,7 +1,7 @@
 <div align="center">
 <img src="/assets/screen.png">
 <h1>Vivaldi CSS</h1>
-<p>An experience oyu can't forget</p>
+<p>An experience you can't forget</p>
 </div>
 
 
