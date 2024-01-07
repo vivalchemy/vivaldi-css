@@ -18,6 +18,10 @@ To apply these custom styles to your Vivaldi browser, follow these steps:
 1. Done. Now open a new instance of vivaldi to verify whether the styles have been applied.
 > Note: You have to switch the tabar position to left before using this stylesheet for a better experience. Also note that the stylesheets are not responsive as the sizes are written in pixels; so you might have to tinker with them a bit.
 
+## Future Goals:
+1. Fix the workspace popup(currently it stays in the middle of the tabbar)
+1. Add ambiance to the window based on the website visited(will be very hard for me now)
 
-
-
+## Contributions:
+- Please raise an issue if you find something buggy while using this stylesheet
+- Your PRs to add features or fix the issues will be highly appreciated
