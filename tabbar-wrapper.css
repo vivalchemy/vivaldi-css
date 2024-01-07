@@ -1,0 +1,48 @@
+* {
+  font-family: "Poppins";  
+}
+.tabs-left .tabbar-wrapper{
+  flex-direction:column-reverse;
+}
+.tab-strip > span {
+  display: flex;
+  margin-bottom: 5px !important;
+}
+
+.tab-position {
+  padding: 1px 5px !important;
+}
+
+/* .tab-position .tab .title { */
+.tab-position .tab {
+  font-size: 12.3px;
+  padding : 16px 0px !important;
+  display: flex ;
+  justify-content: center ;
+  align-items: left ;
+
+}
+
+.tab-position .tab .favicon{
+  width: 10px !important;
+  width: auto !important;
+}
+
+span.favicon.jstest-favicon-image {
+  margin: 0px 8px 0px 5px !important;
+}
+
+.button-toolbar.button-menu .button-toolbar-menu-indicator.disabled {
+  rotate : 180deg;
+}
+
+
+.WorkspacePopup .actions {
+  justify-content: center;
+}
+
+.button-popup:before{
+  content : normal;
+    /* bottom: -290px !important; */
+}
+
